@@ -17,7 +17,7 @@
   			
   	<%--로그인 부분 + 회원가입 --%>
   	<div id="login">
-  	 <a href="#">Login</a> | <a href="#">Join</a>
+  	 <a href="#">Login</a> | <a href="./member/join.jsp">Join</a>
   	</div>		
   	
   	<div class="clear"></div>

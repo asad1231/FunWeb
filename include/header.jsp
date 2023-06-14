@@ -12,6 +12,7 @@
 <%-- ../는 한단계 상위폴더로 이동하라는 상대경로. ../../ 2단계 상위폴더로 이동 --%>
 <link rel="stylesheet" type="text/css" href="../css/welcome.css">
 <link rel="stylesheet" type="text/css" href="../css/notice.css">
+<link rel="stylesheet" type="text/css" href="../css/join.css">
 </head>
 <body>
  <div id="wrap">
@@ -20,7 +21,7 @@
   			
   	<%--로그인 부분 + 회원가입 --%>
   	<div id="login">
-  	 <a href="#">Login</a> | <a href="#">Join</a>
+  	 <a href="#">Login</a> | <a href="../member/join.jsp">Join</a>
   	</div>		
   	
   	<div class="clear"></div>

@@ -89,7 +89,7 @@
 	text-decoration: underline; font-weight: bold; color: #F90;
 }
 /*문제) 게시판 제목 리스트에 마우스 오버시 배경색을 오렌지색으로 나오게 해주고, 동시에 손가락 모양으로 표현되게 해보자.*/
-#notice td.left:hover {
+#notice tr:hover {
 	background-color: orange;
 	cursor: pointer;
 }
